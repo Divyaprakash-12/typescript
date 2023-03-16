@@ -3,5 +3,5 @@
 var Name = "prakash";
 console.log(Name);
 console.log(typeof (Name));
-var Name1 = "hari";
+var Name1 = "hariharan";
 console.log(Name1);
