@@ -1,4 +1,4 @@
-
+"use strict";
 class employee {
     constructor(empid, empname, empdesignation, empsalary, empproject) {
         this.empid = empid;
