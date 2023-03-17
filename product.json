@@ -1,0 +1,32 @@
+[
+    {
+        "proid": 101,
+        "proname": "Marie Gold",
+        "proprice": 10,
+        "proqty": 5
+    },
+    {
+        "proid": 102,
+        "proname": "Marie Lite",
+        "proprice": 15,
+        "proqty": 7
+    },
+    {
+        "proid": 103,
+        "proname": "Good Day",
+        "proprice": 20,
+        "proqty": 4
+    },
+    {
+        "proid": 104,
+        "proname": "Happy Happy",
+        "proprice": 5,
+        "proqty": 10
+    },
+    {
+        "proid": 105,
+        "proname": "Milk Bikis",
+        "proprice": 10,
+        "proqty": 2
+    }
+]
